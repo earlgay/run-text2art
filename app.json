@@ -1,0 +1,12 @@
+{
+    "env": {
+        "BUCKET": {
+            "description": "Output bucket for processed files.",
+            "value": "placeholder",
+            "required": true
+        }
+    },
+    "options": {
+        "allow-unauthenticated": false
+    }
+}

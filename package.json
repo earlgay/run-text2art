@@ -1,0 +1,16 @@
+{
+    "name": "run-text2art",
+    "version": "0.1.0",
+    "description": "Convert text to ascii art.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "Earl Gay",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@google-cloud/storage": "^5.0.1",
+        "express": "^4.17.1"
+    }
+}
