@@ -10,7 +10,7 @@
     "author": "Earl Gay",
     "license": "Apache-2.0",
     "dependencies": {
-        "@google-cloud/storage": "^5.0.1",
+        "@google-cloud/storage": "^5.20.5",
         "express": "^4.17.3"
     }
 }
